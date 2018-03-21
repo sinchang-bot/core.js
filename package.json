@@ -1,0 +1,23 @@
+{
+  "name": "core.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinchang-bot/core.js.git"
+  },
+  "keywords": [],
+  "author": "sinchang <sinchangwen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinchang-bot/core.js/issues"
+  },
+  "homepage": "https://github.com/sinchang-bot/core.js#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
